@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:\常用软件\android-studio\gradle\gradle-2.14.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/CoverFlow" />
+            <option value="$PROJECT_DIR$/FancyCoverFlowDemo" />
+            <option value="$PROJECT_DIR$/FcPermissions" />
+            <option value="$PROJECT_DIR$/GeekNewsapp" />
+            <option value="$PROJECT_DIR$/InfiniteCycleViewPager-app" />
+            <option value="$PROJECT_DIR$/MDPlayer-app" />
+            <option value="$PROJECT_DIR$/NiceLoading" />
+            <option value="$PROJECT_DIR$/RecyclerViewCardGallery-app" />
+            <option value="$PROJECT_DIR$/RecyclerViewCardGallery-library" />
+            <option value="$PROJECT_DIR$/Scratch" />
+            <option value="$PROJECT_DIR$/Scratchapp" />
+            <option value="$PROJECT_DIR$/SudokuLock" />
+            <option value="$PROJECT_DIR$/TimePickerDialog" />
+            <option value="$PROJECT_DIR$/TimePickerDialogSample" />
+            <option value="$PROJECT_DIR$/UniversalMusicPlayer" />
+            <option value="$PROJECT_DIR$/XLHRatingBar-app" />
+            <option value="$PROJECT_DIR$/ZLayer-app" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/fcpermission" />
+            <option value="$PROJECT_DIR$/ijkplayer-exo" />
+            <option value="$PROJECT_DIR$/ijkplayer-java" />
+            <option value="$PROJECT_DIR$/infinitecycleviewpager" />
+            <option value="$PROJECT_DIR$/xCGuaguaka" />
+            <option value="$PROJECT_DIR$/xlhratingbar_lib" />
+            <option value="$PROJECT_DIR$/zlayer" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

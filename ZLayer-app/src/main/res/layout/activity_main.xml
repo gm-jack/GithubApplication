@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.prin.zlayer.MainActivity">
+
+
+    <Button
+        android:id="@+id/bt_ob_bus_msg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="长途车信息"/>
+
+    <Button
+        android:id="@+id/bt_ob_bus_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="车次信息"/>
+
+    <Button
+        android:id="@+id/bt_demo_login"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="登录"/>
+
+
+</LinearLayout>

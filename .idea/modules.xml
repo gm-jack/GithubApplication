@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CoverFlow/CoverFlow.iml" filepath="$PROJECT_DIR$/CoverFlow/CoverFlow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FancyCoverFlowDemo/FancyCoverFlowDemo.iml" filepath="$PROJECT_DIR$/FancyCoverFlowDemo/FancyCoverFlowDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FcPermissions/FcPermissions.iml" filepath="$PROJECT_DIR$/FcPermissions/FcPermissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GeekNewsapp/GeekNewsapp.iml" filepath="$PROJECT_DIR$/GeekNewsapp/GeekNewsapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GithubApplication.iml" filepath="$PROJECT_DIR$/GithubApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InfiniteCycleViewPager-app/InfiniteCycleViewPager-app.iml" filepath="$PROJECT_DIR$/InfiniteCycleViewPager-app/InfiniteCycleViewPager-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MDPlayer-app/MDPlayer-app.iml" filepath="$PROJECT_DIR$/MDPlayer-app/MDPlayer-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NiceLoading/NiceLoading.iml" filepath="$PROJECT_DIR$/NiceLoading/NiceLoading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewCardGallery-app/RecyclerViewCardGallery-app.iml" filepath="$PROJECT_DIR$/RecyclerViewCardGallery-app/RecyclerViewCardGallery-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewCardGallery-library/RecyclerViewCardGallery-library.iml" filepath="$PROJECT_DIR$/RecyclerViewCardGallery-library/RecyclerViewCardGallery-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scratch/Scratch.iml" filepath="$PROJECT_DIR$/Scratch/Scratch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scratchapp/Scratchapp.iml" filepath="$PROJECT_DIR$/Scratchapp/Scratchapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SudokuLock/SudokuLock.iml" filepath="$PROJECT_DIR$/SudokuLock/SudokuLock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimePickerDialog/TimePickerDialog.iml" filepath="$PROJECT_DIR$/TimePickerDialog/TimePickerDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TimePickerDialogSample/TimePickerDialogSample.iml" filepath="$PROJECT_DIR$/TimePickerDialogSample/TimePickerDialogSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UniversalMusicPlayer/UniversalMusicPlayer.iml" filepath="$PROJECT_DIR$/UniversalMusicPlayer/UniversalMusicPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XLHRatingBar-app/XLHRatingBar-app.iml" filepath="$PROJECT_DIR$/XLHRatingBar-app/XLHRatingBar-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZLayer-app/ZLayer-app.iml" filepath="$PROJECT_DIR$/ZLayer-app/ZLayer-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fcpermission/fcpermission.iml" filepath="$PROJECT_DIR$/fcpermission/fcpermission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ijkplayer-exo/ijkplayer-exo.iml" filepath="$PROJECT_DIR$/ijkplayer-exo/ijkplayer-exo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ijkplayer-java/ijkplayer-java.iml" filepath="$PROJECT_DIR$/ijkplayer-java/ijkplayer-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/infinitecycleviewpager/infinitecycleviewpager.iml" filepath="$PROJECT_DIR$/infinitecycleviewpager/infinitecycleviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xCGuaguaka/xCGuaguaka.iml" filepath="$PROJECT_DIR$/xCGuaguaka/xCGuaguaka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlhratingbar_lib/xlhratingbar_lib.iml" filepath="$PROJECT_DIR$/xlhratingbar_lib/xlhratingbar_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zlayer/zlayer.iml" filepath="$PROJECT_DIR$/zlayer/zlayer.iml" />
+    </modules>
+  </component>
+</project>
