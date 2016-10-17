@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/NiceLoading/NiceLoading.iml" filepath="$PROJECT_DIR$/NiceLoading/NiceLoading.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewCardGallery-app/RecyclerViewCardGallery-app.iml" filepath="$PROJECT_DIR$/RecyclerViewCardGallery-app/RecyclerViewCardGallery-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewCardGallery-library/RecyclerViewCardGallery-library.iml" filepath="$PROJECT_DIR$/RecyclerViewCardGallery-library/RecyclerViewCardGallery-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerViewPagerapp/RecyclerViewPagerapp.iml" filepath="$PROJECT_DIR$/RecyclerViewPagerapp/RecyclerViewPagerapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scratch/Scratch.iml" filepath="$PROJECT_DIR$/Scratch/Scratch.iml" />
       <module fileurl="file://$PROJECT_DIR$/Scratchapp/Scratchapp.iml" filepath="$PROJECT_DIR$/Scratchapp/Scratchapp.iml" />
       <module fileurl="file://$PROJECT_DIR$/SudokuLock/SudokuLock.iml" filepath="$PROJECT_DIR$/SudokuLock/SudokuLock.iml" />
@@ -25,6 +26,8 @@
       <module fileurl="file://$PROJECT_DIR$/ijkplayer-exo/ijkplayer-exo.iml" filepath="$PROJECT_DIR$/ijkplayer-exo/ijkplayer-exo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ijkplayer-java/ijkplayer-java.iml" filepath="$PROJECT_DIR$/ijkplayer-java/ijkplayer-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/infinitecycleviewpager/infinitecycleviewpager.iml" filepath="$PROJECT_DIR$/infinitecycleviewpager/infinitecycleviewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib/lib.iml" filepath="$PROJECT_DIR$/lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tablayoutsupport/tablayoutsupport.iml" filepath="$PROJECT_DIR$/tablayoutsupport/tablayoutsupport.iml" />
       <module fileurl="file://$PROJECT_DIR$/xCGuaguaka/xCGuaguaka.iml" filepath="$PROJECT_DIR$/xCGuaguaka/xCGuaguaka.iml" />
       <module fileurl="file://$PROJECT_DIR$/xlhratingbar_lib/xlhratingbar_lib.iml" filepath="$PROJECT_DIR$/xlhratingbar_lib/xlhratingbar_lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/zlayer/zlayer.iml" filepath="$PROJECT_DIR$/zlayer/zlayer.iml" />
